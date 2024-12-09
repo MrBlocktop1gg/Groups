@@ -1,0 +1,5 @@
+name: PrefixGroup
+version: '${1.0-TEST}'
+main: mrblock.prefixgroup.PrefixGroup
+command:
+  setPrefix: {}
